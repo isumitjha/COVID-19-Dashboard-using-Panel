@@ -1,5 +1,7 @@
 # COVID-19 Interactive Dashboard with Python Panel
 
+![Panel Dashboard](https://github.com/user-attachments/assets/75a0ca89-fa1b-4604-8c66-7a48b1843332)
+
 ## Overview
 
 This project is a fully interactive **COVID-19 dashboard** built using the **Panel** library—a versatile web app framework for Python. The dashboard showcases real-time data visualizations and insights about COVID-19 cases, utilizing Python's powerful data processing libraries such as **Pandas** and **Matplotlib**.
@@ -56,16 +58,6 @@ Follow these steps to set up and run the project on your local machine:
 6.  **Access the dashboard**:
 
     Open your browser and navigate to `http://localhost:5006/app` to view the dashboard.
-
-Project Structure
------------------
-
-`COVID-19-Interactive-Dashboard/
-├── app.py               # Main application file for running the dashboard
-├── covid_data.csv        # COVID-19 dataset file
-├── requirements.txt      # List of required Python packages
-├── README.md             # Project documentation
-└── env/                  # Virtual environment (excluded in .gitignore)`
 
 Future Enhancements
 -------------------
